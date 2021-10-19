@@ -1,0 +1,58 @@
+.logo{
+    background-color: darkorange;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.image img{
+    width: 100%;
+}
+.image2 img{
+    width: 100%;
+}
+.btn1{
+    background-color: darkorange;
+    color: white;
+}
+.image1 img{
+    width: 93%;
+
+}
+.box i{
+    background-color: darkorange;
+    color: white;
+    font-size: 2rem;
+    padding: 10px;
+}
+
+  @media screen and (max-width: 991px) {
+    .text h2{
+        text-align: center;
+    }
+    .text p{
+        text-align: center;
+    }
+    .image2 img{
+        height: 300px;
+    }
+    .image1 img{
+        height: 300px;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .box{
+        text-align: center;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .box{
+        text-align: center;
+    }
+  }
+  @media screen and (max-width: 575px) {
+    .image2 img{
+        width: 90%;}
+    .image1 img{
+        width: 90%;}
+    }
+  }
